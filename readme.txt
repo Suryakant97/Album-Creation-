@@ -1,3 +1,6 @@
+to connect database create database name-assignment
+and export assignment.sql file in newly created assignment database
+
 for admin login use - http://localhost/assignment/admin/
 
     admin user id-admin@123
